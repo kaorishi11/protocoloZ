@@ -1,0 +1,7 @@
+Adicione ao dict principal de ios/Runner/Info.plist:
+<key>NSCameraUsageDescription</key>
+<string>O Protocolo Z usa a câmera para fotografar abrigos e avatar.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>O Protocolo Z acessa a galeria para selecionar fotos de abrigos e avatar.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>O Protocolo Z usa sua localização para posicionar abrigos no mapa.</string>
